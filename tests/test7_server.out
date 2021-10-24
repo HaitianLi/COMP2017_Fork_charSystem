@@ -1,0 +1,12 @@
+log: Server Start.
+
+log: gevent fifo made.
+
+log: Connected: client: bob -- domain: TheDomain
+
+log: Connected: client: alice -- domain: TheDomain
+
+log: bob disconnected, process been clean
+
+log: alice disconnected, process been clean
+

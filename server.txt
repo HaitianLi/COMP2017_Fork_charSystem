@@ -1,0 +1,8 @@
+log: Server Start.
+
+log: gevent fifo made.
+
+log: Connected: client: bob -- domain: TheDomain
+
+log: Connected: client: alice -- domain: TheDomain
+

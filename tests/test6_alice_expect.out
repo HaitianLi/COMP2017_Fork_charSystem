@@ -1,0 +1,15 @@
+log: message from: bob 
+Message: WR is Cont message from ./TheDomain/bob_WR
+Order 1
+
+
+log: message from: bob 
+Message: WR is Cont message from ./TheDomain/bob_WR
+Order 2
+
+
+log: message from: bob 
+Message: WR is Cont message from ./TheDomain/bob_WR
+Order 3
+
+

@@ -1,0 +1,18 @@
+log: Server Start.
+
+log: gevent fifo made.
+
+log: Connected: client: client1 -- domain: AnotherDomain
+
+log: Connected: client: client2 -- domain: AnotherDomain
+
+log: Connected: client: client3 -- domain: AnotherDomain
+
+log: Connected: client: client4 -- domain: AnotherDomain
+
+log: Connected: client: client5 -- domain: AnotherDomain/nestedDomain
+
+log: Connected: client: client6 -- domain: AnotherDomain/nestedDomain
+
+log: Connected: client: client7 -- domain: AnotherDomain/nestedDomain
+

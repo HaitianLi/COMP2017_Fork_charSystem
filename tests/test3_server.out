@@ -1,0 +1,14 @@
+log: Server Start.
+
+log: gevent fifo made.
+
+log: Connected: client: bob -- domain: TheDomain
+
+log: Connected: client: kk -- domain: TheDomain
+
+log: Connected: client: jack -- domain: TheDomain
+
+log: client: kk -- domain: TheDomain Connected, please do not connect again
+
+log: client: jack -- domain: TheDomain Connected, please do not connect again
+

@@ -1,0 +1,28 @@
+log: bob got ping from handler
+
+log: bob send pong to handler
+
+log: bob got ping from handler
+
+log: bob send pong to handler
+
+log: bob got ping from handler
+
+log: bob send pong to handler
+
+log: bob got ping from handler
+
+log: bob send pong to handler
+
+log: bob got ping from handler
+
+log: bob send pong to handler
+
+log: bob got ping from handler
+
+log: bob send pong to handler
+
+log: bob got ping from handler
+
+log: bob send pong to handler
+
